@@ -125,9 +125,6 @@ const styles = StyleSheet.create({
         width: deviceWidth,
         backgroundColor: '#29A8AB',
         
-        justifyContent: 'center',
-        paddingTop: 20,
-        borderBottomWidth: 10,
         borderColor: '#BBBBBB',
     },
     navbarButtonRow: {
