@@ -121,9 +121,6 @@ const styles = StyleSheet.create({
         backgroundColor: '#EEEEEE',
     },
     navbarContainer: {
-        height: deviceHeight/4,
-        width: deviceWidth,
-        backgroundColor: '#29A8AB',
         
         borderColor: '#BBBBBB',
     },
