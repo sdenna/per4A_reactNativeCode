@@ -99,8 +99,7 @@ const styles = StyleSheet.create({
         width: 13*deviceWidth/22,
     },
     vertBlue: {
-        backgroundColor: 'darkblue',
-        height: 7*deviceHeight/16,
+       
         width: 2*deviceWidth/22,
     },
 });
